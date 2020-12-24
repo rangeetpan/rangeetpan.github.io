@@ -9,11 +9,12 @@
 </script>
 
 ## Welcome to Rangeet Pan's homepage
-<span style="font-size:1.2em;">
+<span style="font-size:1.35em;">
 I am a Ph.D. student at the Department of Computer Science at Iowa State University. I am also working as a Research Assistant at the <a href="http://design.cs.iastate.edu/"> Laboratory of Software Design</a>. My supervisor is Dr. <a href="http://web.cs.iastate.edu/~hridesh/">Hridesh Rajan</a>. I have worked as a research intern at Microsoft Research in <a href="https://www.microsoft.com/en-us/research/group/saint-group/"> Software Analysis and Intelligence (SAINTes) team </a> with <a href="https://www.microsoft.com/en-us/research/people/nachin/">Dr. Nachi Nagappan</a>, <a href="http://vuminhle.com/">Dr. Vu Le</a>, <a href="https://www.microsoft.com/en-us/research/people/sumitg/">Dr. Sumit Gulwani</a>, and <a href="https://www.microsoft.com/en-us/research/people/shuvendu/">Dr. Shuvendu Lahiri</a>. My area of expertise is Deep Neural Network, Modularity, and Program Analysis.</span>
 
 
 ## Recent News!
+<span style="font-size:1.35em;">
 <br> <b>* Nov '20</b>: ACM  SIGSOFT Distinguished paper award at ESEC/FSE for "On Decomposing Deep Neural Networks into Modules".<br>
 <br> <b>* Nov '20</b>: Present our paper "On Decomposing Deep Neural Networks into Modules" at ESEC/FSE, 2020.<br>
 <br> <b>* May '20</b>: Join Microsoft Research as a research intern.<br>
@@ -24,7 +25,7 @@ I am a Ph.D. student at the Department of Computer Science at Iowa State Univers
 <br> <b>* Aug '19</b>: Present our paper on "A Comprehensive Study on Deep Learning Bug Characteristics" at ESEC/FSE, 2019, Estonia, Tallinn<br>
 <br> <b>* May '19</b>: Our paper on "A Comprehensive Study on Deep Learning Bug Characteristics" has been accepted at ESEC/FSE, 2019<br>
 <br> <b>* Aug '18</b>: Join Ph.D. program at the Department of Computer Science at Iowa State University<br>
-
+</span>
 ## Personal
-
-I am originally from Chandannagar, which is one of the two french colonies in India. I love legos and computer games. Recently completed Witcher 3: Wild Hunt and now playing Horizon Hero Dawn.
+<span style="font-size:1.35em;">
+I am originally from Chandannagar, which is one of the two french colonies in India. I love legos and computer games. Recently completed Witcher 3: Wild Hunt and now playing Horizon Hero Dawn.</span>
