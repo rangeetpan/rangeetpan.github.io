@@ -20,6 +20,7 @@ I am a Ph.D. student at the Department of Computer Science at Iowa State Univers
 <br> <b>* May '20</b>: Join Microsoft Research as a research intern.<br>
 <br> <b>* May '20</b>: Won 2nd place at the ACM Student Research Competition, ICSE, 2020.<br>
 <br> <b>* May '20</b>: Present SRC paper "Does Fixing Bug Increase Robustness in Deep Learning?", ICSE, 2020.<br>
+<br> <b>* Dec '19</b>: Our paper on "On Decomposing Deep Neural Networks into Modules" has been accepted at ESEC/FSE, 2020<br>
 <br> <b>* May '20</b>: Won Robert Stewart Early Research Recognition Award, Iowa State University, 2020.<br>
 <br> <b>* Dec '19</b>: Our paper on "Repairing Deep Neural Networks: Fix Patterns and Challenges" has been accepted at ICSE, 2020<br>
 <br> <b>* Aug '19</b>: Present our paper on "A Comprehensive Study on Deep Learning Bug Characteristics" at ESEC/FSE, 2019, Estonia, Tallinn<br>
