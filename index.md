@@ -28,4 +28,4 @@ I am a Ph.D. student at the Department of Computer Science at Iowa State Univers
 </span>
 ## Personal
 <span style="font-size:1.35em;">
-I am originally from Chandannagar, which is one of the two french colonies in India. I love legos and computer games. Recently completed Witcher 3: Wild Hunt and now playing Horizon Hero Dawn.</span>
+I am originally from Chandannagar, which is one of the two French colonies in India. I love to play with Lego and computer games. Recently completed Witcher 3: Wild Hunt and now playing Horizon Hero Dawn.</span>
