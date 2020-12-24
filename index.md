@@ -15,7 +15,7 @@ I am a Ph.D. student at the Department of Computer Science at Iowa State Univers
 
 ## Recent News!
 <span style="font-size:1.35em;">
-<br> <b>* Nov '20</b>: ACM  SIGSOFT Distinguished paper award at ESEC/FSE for "On Decomposing Deep Neural Networks into Modules".<br>
+<b>* Nov '20</b>: ACM  SIGSOFT Distinguished paper award at ESEC/FSE for "On Decomposing Deep Neural Networks into Modules".<br>
 <br> <b>* Nov '20</b>: Present our paper "On Decomposing Deep Neural Networks into Modules" at ESEC/FSE, 2020.<br>
 <br> <b>* May '20</b>: Join Microsoft Research as a research intern.<br>
 <br> <b>* May '20</b>: Won 2nd place at the ACM Student Research Competition, ICSE, 2020.<br>
