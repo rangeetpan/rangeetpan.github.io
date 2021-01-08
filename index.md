@@ -17,7 +17,8 @@ I am a Ph.D. student at the Department of Computer Science at Iowa State Univers
 
 ## Recent News!
 <span style="font-size:1.35em;">
-<b>* Nov '20</b>: Our paper on "Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis" has been accepted at ICSE 2021.<br>
+<b>* Jan '21</b>: Our paper on "Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis" has been accepted at ICSE 2021.<br>
+<b>* Jan '21</b>: I will be serving as Shadow PC member at MSR 2021.<br>
 <b>* Nov '20</b>: ACM  SIGSOFT Distinguished paper award at ESEC/FSE for "On Decomposing Deep Neural Networks into Modules".<br>
 <br> <b>* Nov '20</b>: Present our paper "On Decomposing Deep Neural Networks into Modules" at ESEC/FSE, 2020.<br>
 <br> <b>* May '20</b>: Join Microsoft Research as a research intern.<br>
