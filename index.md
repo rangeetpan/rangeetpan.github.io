@@ -14,36 +14,37 @@ I am a Ph.D. student at the Department of Computer Science at Iowa State Univers
 
 ## Publications
 <span style="font-size:1.35em;">
-<b>2021</b>
-Rangeet Pan, Vu Le, Nachiappan Nagappan, Sumit Gulwani, Shuvendhu Lahiri, Mike Kaufman.
+<b>2021</b><br>
+<b>*</b> Rangeet Pan, Vu Le, Nachiappan Nagappan, Sumit Gulwani, Shuvendhu Lahiri, Mike Kaufman.
 Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis,
 <b>ICSE, 2021</b>: (To-appear)
-<br>
-<b>2020</b>
-Rangeet Pan, Hridesh Rajan.
+<br><br>
+<b>2020</b><br>
+<b>*</b> Rangeet Pan, Hridesh Rajan.
 On Decomposing a Deep Neural Network into Modules,
 <b>ESEC/FSE, 2020</b>: 889-900 [<a
 href="https://dl.acm.org/doi/10.1145/3368089.3409668"><span style='color:#954F72'>paper</span></a>]
 <br>
-Rangeet Pan. Does Fixing Bug Increase Robustness in Deep Learning?,
+<b>*</b> Rangeet Pan. Does Fixing Bug Increase Robustness in Deep Learning?,
 <b>ICSE SRC</b>, 2020: 146-148 [<a
 href="https://dl.acm.org/doi/10.1145/3377812.3382175"><span style='color:#954F72'>paper</span></a>]
 <br>
-Md Johirul Islam, Rangeet Pan, Hridesh Rajan. Repairing Deep Neural Networks: Fix Patterns and Challenges,
+<b>*</b> Md Johirul Islam, Rangeet Pan, Hridesh Rajan. Repairing Deep Neural Networks: Fix Patterns and Challenges,
 <b>ICSE, 2020</b>: 1135-1146 [<a
 href="https://dl.acm.org/doi/10.1145/3377811.3380378"><span style='color:#954F72'>paper</span></a>]
 <br>
 <br>
 <b>2019</b>
 <br>
-Md Johirul Islam, Giang Nguyen, Rangeet Pan, Hridesh Rajan. A Comprehensive Study on Deep Learning Bug Characteristics,
+<b>*</b> Md Johirul Islam, Giang Nguyen, Rangeet Pan, Hridesh Rajan. A Comprehensive Study on Deep Learning Bug Characteristics,
 <b>ESEC/FSE, 2019 </b>: 510-520 [<a
 href="https://dl.acm.org/doi/abs/10.1145/3338906.3338955"><span style='color:#954F72'>paper</span></a>]
 <br>
-Rangeet Pan. Static Deep Neural Network Analysis for Robustness,
+<b>*</b> Rangeet Pan. Static Deep Neural Network Analysis for Robustness,
 <b>ESEC/FSE SRC, 2019</b>: 1238-1240 [<a
 href="https://dl.acm.org/doi/10.1145/3338906.3342502"><span style='color:#954F72'>paper</span></a>]</span>
 ## Recent News!
+<span style="font-size:1.35em;">
 <b>* Jan '21</b>: Our paper on "Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis" has been accepted at ICSE 2021.<br>
 <br> <b>* Jan '21</b>: I will be serving as Shadow PC member at MSR 2021.<br>
 <br> <b>* Nov '20</b>: ACM  SIGSOFT Distinguished paper award at ESEC/FSE for "On Decomposing Deep Neural Networks into Modules".<br>
@@ -56,7 +57,7 @@ href="https://dl.acm.org/doi/10.1145/3338906.3342502"><span style='color:#954F72
 <br> <b>* Dec '19</b>: Our paper on "Repairing Deep Neural Networks: Fix Patterns and Challenges" has been accepted at ICSE, 2020<br>
 <br> <b>* Aug '19</b>: Present our paper on "A Comprehensive Study on Deep Learning Bug Characteristics" at ESEC/FSE, 2019, Estonia, Tallinn<br>
 <br> <b>* May '19</b>: Our paper on "A Comprehensive Study on Deep Learning Bug Characteristics" has been accepted at ESEC/FSE, 2019<br>
-<br> <b>* Aug '18</b>: Join Ph.D. program at the Department of Computer Science at Iowa State University<br>
+<br> <b>* Aug '18</b>: Join Ph.D. program at the Department of Computer Science at Iowa State University<br></span>
 ## Personal
 <span style="font-size:1.35em;">
 I am originally from Chandannagar, which is one of the two French colonies in India. I love to play with Lego and console games. Recently completed Witcher 3: Wild Hunt and now playing Horizon Hero Dawn.</span>
