@@ -13,6 +13,7 @@
 I am a Ph.D. student at the Department of Computer Science at Iowa State University. I am also working as a Research Assistant at the <a href="http://design.cs.iastate.edu/"> Laboratory of Software Design</a>. My supervisor is <a href="http://web.cs.iastate.edu/~hridesh/">Dr. Hridesh Rajan</a>. I have worked as a research intern at Microsoft Research in <a href="https://www.microsoft.com/en-us/research/group/saint-group/"> Software Analysis and Intelligence (SAINTes) team </a> with <a href="https://www.microsoft.com/en-us/research/people/nachin/">Dr. Nachi Nagappan</a>, <a href="http://vuminhle.com/">Dr. Vu Le</a>, <a href="https://www.microsoft.com/en-us/research/people/sumitg/">Dr. Sumit Gulwani</a>, and <a href="https://www.microsoft.com/en-us/research/people/shuvendu/">Dr. Shuvendu Lahiri</a>. My area of expertise is Deep Neural Network, Modularity, and Program Analysis.</span>
 
 ## Publications
+<span style="font-size:1.35em;">
 <b>2021</b>
 
 Rangeet Pan, Vu Le, Nachiappan Nagappan, Sumit Gulwani, Shuvendhu Lahiri, Mike Kaufman.
@@ -39,12 +40,12 @@ href="https://dl.acm.org/doi/10.1145/3377811.3380378"><span style='color:#954F72
 <b>2019</b>
 
 Md Johirul Islam, Giang Nguyen, Rangeet Pan, Hridesh Rajan. A Comprehensive Study on Deep Learning Bug Characteristics,
-ESEC/FSE, 2019: 510-520 [<a
+<b>ESEC/FSE, 2019 </b>: 510-520 [<a
 href="https://dl.acm.org/doi/abs/10.1145/3338906.3338955"><span style='color:#954F72'>paper</span></a>]
 
 Rangeet Pan. Static Deep Neural Network Analysis for Robustness,
-<b>ESEC/FSE SRC</b>, 2019: 1238-1240 [<a
-href="https://dl.acm.org/doi/10.1145/3338906.3342502"><span style='color:#954F72'>paper</span></a>]
+<b>ESEC/FSE SRC, 2019</b>: 1238-1240 [<a
+href="https://dl.acm.org/doi/10.1145/3338906.3342502"><span style='color:#954F72'>paper</span></a>]</span>
 ## Recent News!
 <b>* Jan '21</b>: Our paper on "Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis" has been accepted at ICSE 2021.<br>
 <br> <b>* Jan '21</b>: I will be serving as Shadow PC member at MSR 2021.<br>
