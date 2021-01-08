@@ -14,13 +14,15 @@ I am a Ph.D. student at the Department of Computer Science at Iowa State Univers
 
 ## Publications
 <span style="font-size:1.35em;">
-### 2021
-Rangeet Pan, Vu Le, Nachiappan Nagappan, Sumit Gulwani, Shuvendhu Lahiri, Mike Kaufman
+<b>2021</b>
+
+Rangeet Pan, Vu Le, Nachiappan Nagappan, Sumit Gulwani, Shuvendhu Lahiri, Mike Kaufman.
 Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis,
 <b>ICSE, 2021</b>: (To-appear)
 <br>
-### 2020
-Rangeet Pan, Hridesh Rajan
+<b>2020</b>
+
+Rangeet Pan, Hridesh Rajan.
 On Decomposing a Deep Neural Network into Modules,
 <b>ESEC/FSE, 2020</b>: 889-900 [<a
 href="https://dl.acm.org/doi/10.1145/3368089.3409668"><span style='color:#954F72'>paper</span></a>]
