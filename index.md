@@ -27,6 +27,23 @@ On Decomposing a Deep Neural Network into Modules,
 <b>ESEC/FSE, 2020</b>: 889-900 [<a
 href="https://dl.acm.org/doi/10.1145/3368089.3409668"><span style='color:#954F72'>paper</span></a>]
 <br>
+Rangeet Pan. Does Fixing Bug Increase Robustness in Deep Learning?,
+<b>ICSE SRC</b>, 2020: 146-148 [<a
+href="https://dl.acm.org/doi/10.1145/3377812.3382175"><span style='color:#954F72'>paper</span></a>]
+
+Md Johirul Islam, Rangeet Pan, Hridesh Rajan. Repairing Deep Neural Networks: Fix Patterns and Challenges,
+<b>ICSE, 2020</b>: 1135-1146 [<a
+href="https://dl.acm.org/doi/10.1145/3377811.3380378"><span style='color:#954F72'>paper</span></a>]
+<br>
+<b>2019</b>
+
+Md Johirul Islam, Giang Nguyen, Rangeet Pan, Hridesh Rajan. A Comprehensive Study on Deep Learning Bug Characteristics,
+ESEC/FSE, 2019: 510-520 [<a
+href="https://dl.acm.org/doi/abs/10.1145/3338906.3338955"><span style='color:#954F72'>paper</span></a>]
+
+Rangeet Pan. Static Deep Neural Network Analysis for Robustness,
+<b>ESEC/FSE SRC</b>, 2019: 1238-1240 [<a
+href="https://dl.acm.org/doi/10.1145/3338906.3342502"><span style='color:#954F72'>paper</span></a>]
 ## Recent News!
 <span style="font-size:1.35em;">
 <b>* Jan '21</b>: Our paper on "Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis" has been accepted at ICSE 2021.<br>
