@@ -26,7 +26,7 @@ On Decomposing a Deep Neural Network into Modules,
 href="https://dl.acm.org/doi/10.1145/3368089.3409668"><span style='color:#954F72'>paper</span></a>]
 <br><br>
 <b>*</b> Rangeet Pan. Does Fixing Bug Increase Robustness in Deep Learning?,
-<b>ICSE SRC</b>, 2020: 146-148 [<a
+<b>ICSE SRC, 2020</b>: 146-148 [<a
 href="https://dl.acm.org/doi/10.1145/3377812.3382175"><span style='color:#954F72'>paper</span></a>]
 <br><br>
 <b>*</b> Md Johirul Islam, Rangeet Pan, Hridesh Rajan. Repairing Deep Neural Networks: Fix Patterns and Challenges,
