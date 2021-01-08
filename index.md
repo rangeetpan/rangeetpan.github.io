@@ -13,13 +13,319 @@
 I am a Ph.D. student at the Department of Computer Science at Iowa State University. I am also working as a Research Assistant at the <a href="http://design.cs.iastate.edu/"> Laboratory of Software Design</a>. My supervisor is <a href="http://web.cs.iastate.edu/~hridesh/">Dr. Hridesh Rajan</a>. I have worked as a research intern at Microsoft Research in <a href="https://www.microsoft.com/en-us/research/group/saint-group/"> Software Analysis and Intelligence (SAINTes) team </a> with <a href="https://www.microsoft.com/en-us/research/people/nachin/">Dr. Nachi Nagappan</a>, <a href="http://vuminhle.com/">Dr. Vu Le</a>, <a href="https://www.microsoft.com/en-us/research/people/sumitg/">Dr. Sumit Gulwani</a>, and <a href="https://www.microsoft.com/en-us/research/people/shuvendu/">Dr. Shuvendu Lahiri</a>. My area of expertise is Deep Neural Network, Modularity, and Program Analysis.</span>
 
 ## Publications
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
 
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<link rel=File-List href="papers_files/filelist.xml">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1073732485 9 0 511 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:105%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:#954F72;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-noshow:yes;
+	mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("papers_files/header.htm") fs;
+	mso-footnote-continuation-separator:url("papers_files/header.htm") fcs;
+	mso-endnote-separator:url("papers_files/header.htm") es;
+	mso-endnote-continuation-separator:url("papers_files/header.htm") ecs;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2049"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink="#954F72" style='tab-interval:.5in'>
+
+<div class=WordSection1>
+
+  <p class=MsoNormal style='mso-line-height-alt:12.1pt'><b><span
+  style='font-size:16.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:red'>2021</span></b><span style='mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:Calibri;color:black'><o:p></o:p></span></p>
+
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  12.1pt'><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black'>Rangeet Pan, Vu Le, Nachiappan Nagappan, Sumit Gulwani, Shuvendhu Lahiri, and Mike Kaufman</span> <span style='mso-ascii-font-family:
+  Calibri;mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:Calibri;color:black'></span></p>
+
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  12.1pt'><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  "Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black'>Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis,
+  ICSE, 2021: (To-appear)<o:p></o:p></span></p><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-line-height-alt:12.1pt'><b><span
+style='font-size:16.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+color:red'>2020</span></b><span style='mso-ascii-font-family:Calibri;
+mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
+mso-bidi-font-family:Calibri;color:black'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+12.1pt'><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+color:black'>Rangeet Pan, Hridesh Rajan</span> <span style='mso-ascii-font-family:
+Calibri;mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
+mso-bidi-font-family:Calibri;color:black'></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+12.1pt'><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+color:black'>On Decomposing a Deep Neural Network into Modules,
+ESEC/FSE, 2020: 889-900 [<a
+href="https://dl.acm.org/doi/10.1145/3368089.3409668"><span style='color:#954F72'>paper</span></a>]<o:p></o:p></span></p><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+12.1pt'><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+color:black'>Rangeet Pan</span> <span style='mso-ascii-font-family:
+Calibri;mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
+mso-bidi-font-family:Calibri;color:black'></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+12.1pt'><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+color:black'>Does Fixing Bug Increase Robustness in Deep Learning?,
+ICSE SRC, 2020: 146-148 [<a
+href="https://dl.acm.org/doi/10.1145/3377812.3382175"><span style='color:#954F72'>paper</span></a>]<o:p></o:p></span></p><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+12.1pt'><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+color:black'>Md Johirul Islam, Rangeet Pan, Hridesh Rajan</span> <span style='mso-ascii-font-family:
+Calibri;mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
+mso-bidi-font-family:Calibri;color:black'></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+12.1pt'><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+color:black'>Repairing Deep Neural Networks: Fix Patterns and Challenges,
+ICSE, 2020: 1135-1146 [<a
+href="https://dl.acm.org/doi/10.1145/3377811.3380378"><span style='color:#954F72'>paper</span></a>]<o:p></o:p></span></p><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-line-height-alt:12.1pt'><b><span
+style='font-size:16.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+color:red'>2019</span></b><span style='mso-ascii-font-family:Calibri;
+mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
+mso-bidi-font-family:Calibri;color:black'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+12.1pt'><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+color:black'>Md Johirul Islam, Giang Nguyen, Rangeet Pan, Hridesh Rajan</span> <span style='mso-ascii-font-family:
+Calibri;mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
+mso-bidi-font-family:Calibri;color:black'></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+12.1pt'><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+color:black'>A Comprehensive Study on Deep Learning Bug Characteristics,
+ESEC/FSE, 2019: 510-520 [<a
+href="https://dl.acm.org/doi/abs/10.1145/3338906.3338955"><span style='color:#954F72'>paper</span></a>]<o:p></o:p></span></p><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+12.1pt'><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+color:black'>Rangeet Pan</span> <span style='mso-ascii-font-family:
+Calibri;mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
+mso-bidi-font-family:Calibri;color:black'></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+12.1pt'><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+color:black'>Static Deep Neural Network Analysis for Robustness,
+ESEC/FSE SRC, 2019: 1238-1240 [<a
+href="https://dl.acm.org/doi/10.1145/3338906.3342502"><span style='color:#954F72'>paper</span></a>]<o:p></o:p></span></p><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+12.1pt'><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+color:black'>Rangeet Pan, Md Johirul Islam, Shibbir Ahmed, Hridesh Rajan</span> <span style='mso-ascii-font-family:
+Calibri;mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
+mso-bidi-font-family:Calibri;color:black'></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+12.1pt'><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+color:black'>Identifying Classes Susceptible to Adversarial Attacks,
+Archived, 2019: [<a
+href="https://arxiv.org/abs/1905.13284"><span style='color:#954F72'>paper</span></a>]<o:p></o:p></span></p><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+12.1pt'><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+color:black'>Md Johirul Islam, Hoan Anh Nguyen, Rangeet Pan, and Hridesh Rajan</span> <span style='mso-ascii-font-family:
+Calibri;mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
+mso-bidi-font-family:Calibri;color:black'></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+12.1pt'><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+color:black'>What Do Developers Ask About ML Libraries? A Large-scale Study Using Stack Overflow,
+Archived, 2019: [<a
+href="https://arxiv.org/abs/1906.11940"><span style='color:#954F72'>paper</span></a>]<o:p></o:p></span></p><o:p></o:p></span></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
 
 ## Recent News!
 <span style="font-size:1.35em;">
 <b>* Jan '21</b>: Our paper on "Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis" has been accepted at ICSE 2021.<br>
-<b>* Jan '21</b>: I will be serving as Shadow PC member at MSR 2021.<br>
-<b>* Nov '20</b>: ACM  SIGSOFT Distinguished paper award at ESEC/FSE for "On Decomposing Deep Neural Networks into Modules".<br>
+
+<br> <b>* Jan '21</b>: I will be serving as Shadow PC member at MSR 2021.<br>
+<br> <b>* Nov '20</b>: ACM  SIGSOFT Distinguished paper award at ESEC/FSE for "On Decomposing Deep Neural Networks into Modules".<br>
 <br> <b>* Nov '20</b>: Present our paper "On Decomposing Deep Neural Networks into Modules" at ESEC/FSE, 2020.<br>
 <br> <b>* May '20</b>: Join Microsoft Research as a research intern.<br>
 <br> <b>* May '20</b>: Won 2nd place at the ACM Student Research Competition, ICSE, 2020.<br>
