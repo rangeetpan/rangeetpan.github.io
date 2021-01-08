@@ -13,15 +13,14 @@
 I am a Ph.D. student at the Department of Computer Science at Iowa State University. I am also working as a Research Assistant at the <a href="http://design.cs.iastate.edu/"> Laboratory of Software Design</a>. My supervisor is <a href="http://web.cs.iastate.edu/~hridesh/">Dr. Hridesh Rajan</a>. I have worked as a research intern at Microsoft Research in <a href="https://www.microsoft.com/en-us/research/group/saint-group/"> Software Analysis and Intelligence (SAINTes) team </a> with <a href="https://www.microsoft.com/en-us/research/people/nachin/">Dr. Nachi Nagappan</a>, <a href="http://vuminhle.com/">Dr. Vu Le</a>, <a href="https://www.microsoft.com/en-us/research/people/sumitg/">Dr. Sumit Gulwani</a>, and <a href="https://www.microsoft.com/en-us/research/people/shuvendu/">Dr. Shuvendu Lahiri</a>. My area of expertise is Deep Neural Network, Modularity, and Program Analysis.</span>
 
 ## Publications
+<span style="font-size:1.35em;">
 ### 2021
 Rangeet Pan, Vu Le, Nachiappan Nagappan, Sumit Gulwani, Shuvendhu Lahiri, Mike Kaufman
-
 Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis,
 <b>ICSE, 2021</b>: (To-appear)
 <br>
 ### 2020
 Rangeet Pan, Hridesh Rajan
-
 On Decomposing a Deep Neural Network into Modules,
 <b>ESEC/FSE, 2020</b>: 889-900 [<a
 href="https://dl.acm.org/doi/10.1145/3368089.3409668"><span style='color:#954F72'>paper</span></a>]
