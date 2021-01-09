@@ -15,28 +15,28 @@ I am a Ph.D. student at the Department of Computer Science at Iowa State Univers
 ## Publications
 <span style="font-size:1.35em;">
 <b><font color="red">2021</font></b><br>
-<b>*</b> Rangeet Pan, Vu Le, Nachiappan Nagappan, Sumit Gulwani, Shuvendhu Lahiri, Mike Kaufman.
+  <b>*</b> <b>Rangeet Pan</b>, Vu Le, Nachiappan Nagappan, Sumit Gulwani, Shuvendhu Lahiri, Mike Kaufman.
 Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis,
 <b>ICSE, 2021</b>: (To-appear)
 <br><br>
 <b><font color="red">2020</font></b><br>
-<b>*</b> Rangeet Pan, Hridesh Rajan.
+<b>*</b> <b>Rangeet Pan</b>, Hridesh Rajan.
 On Decomposing a Deep Neural Network into Modules,
 <b>ESEC/FSE, 2020</b>: 889-900 [<a
 href="https://dl.acm.org/doi/10.1145/3368089.3409668"><span style='color:#954F72'>paper</span></a>]
 <br><br>
-<b>*</b> Rangeet Pan. Does Fixing Bug Increase Robustness in Deep Learning?,
+<b>*</b> <b>Rangeet Pan</b>. Does Fixing Bug Increase Robustness in Deep Learning?,
 <b>ICSE SRC, 2020</b>: 146-148 [<a
 href="https://dl.acm.org/doi/10.1145/3377812.3382175"><span style='color:#954F72'>paper</span></a>]
 <br><br>
-<b>*</b> Md Johirul Islam, Rangeet Pan, Hridesh Rajan. Repairing Deep Neural Networks: Fix Patterns and Challenges,
+<b>*</b> Md Johirul Islam, <b>Rangeet Pan</b>, Hridesh Rajan. Repairing Deep Neural Networks: Fix Patterns and Challenges,
 <b>ICSE, 2020</b>: 1135-1146 [<a
 href="https://dl.acm.org/doi/10.1145/3377811.3380378"><span style='color:#954F72'>paper</span></a>]
 <br>
 <br>
 <b><font color="red">2019</font></b>
 <br>
-<b>*</b> Md Johirul Islam, Giang Nguyen, Rangeet Pan, Hridesh Rajan. A Comprehensive Study on Deep Learning Bug Characteristics,
+<b>*</b> Md Johirul Islam, Giang Nguyen, <b>Rangeet Pan</b>, Hridesh Rajan. A Comprehensive Study on Deep Learning Bug Characteristics,
 <b>ESEC/FSE, 2019 </b>: 510-520 [<a
 href="https://dl.acm.org/doi/abs/10.1145/3338906.3338955"><span style='color:#954F72'>paper</span></a>]
 <br><br>
