@@ -40,7 +40,7 @@ href="https://dl.acm.org/doi/10.1145/3377811.3380378"><span style='color:#954F72
 <b>ESEC/FSE, 2019 </b>: 510-520 [<a
 href="https://dl.acm.org/doi/abs/10.1145/3338906.3338955"><span style='color:#954F72'>paper</span></a>]
 <br><br>
-<b>*</b> Rangeet Pan. Static Deep Neural Network Analysis for Robustness,
+<b>*</b> <b>Rangeet Pan</b>. Static Deep Neural Network Analysis for Robustness,
 <b>ESEC/FSE SRC, 2019</b>: 1238-1240 [<a
 href="https://dl.acm.org/doi/10.1145/3338906.3342502"><span style='color:#954F72'>paper</span></a>]</span>
 ## Recent News!
