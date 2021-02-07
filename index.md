@@ -45,7 +45,8 @@ href="https://dl.acm.org/doi/abs/10.1145/3338906.3338955"><span style='color:#95
 href="https://dl.acm.org/doi/10.1145/3338906.3342502"><span style='color:#954F72'>paper</span></a>]</span>
 ## Recent News!
 <span style="font-size:1.35em;">
-<b>* Jan '21</b>: Our paper on "Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis" has been accepted at ICSE 2021.<br>
+<b>* Feb '21</b>: Awarded SIGSOFT CAPS Funding Award for ICSE 2021 registration.<br>
+<br> <b>* Jan '21</b>: Our paper on "Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis" has been accepted at ICSE 2021.<br>
 <br> <b>* Jan '21</b>: I will be serving as Shadow PC member at MSR 2021.<br>
 <br> <b>* Nov '20</b>: ACM  SIGSOFT Distinguished paper award at ESEC/FSE for "On Decomposing Deep Neural Networks into Modules".<br>
 <br> <b>* Nov '20</b>: Present our paper "On Decomposing Deep Neural Networks into Modules" at ESEC/FSE, 2020.<br>
