@@ -17,7 +17,8 @@ I am a Ph.D. student at the Department of Computer Science at Iowa State Univers
 <b><font color="red">2021</font></b><br>
   <b>*</b> <b>Rangeet Pan</b>, Vu Le, Nachiappan Nagappan, Sumit Gulwani, Shuvendhu Lahiri, Mike Kaufman.
 Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis,
-<b>ICSE, 2021</b>: (To-appear)
+<b>ICSE, 2021</b>: [<a
+href="https://arxiv.org/pdf/2103.02004.pdf"><span style='color:#954F72'>pre-print</span></a>]
 <br><br>
 <b><font color="red">2020</font></b><br>
 <b>*</b> <b>Rangeet Pan</b>, Hridesh Rajan.
@@ -45,7 +46,8 @@ href="https://dl.acm.org/doi/abs/10.1145/3338906.3338955"><span style='color:#95
 href="https://dl.acm.org/doi/10.1145/3338906.3342502"><span style='color:#954F72'>paper</span></a>]</span>
 ## Recent News!
 <span style="font-size:1.35em;">
-<b>* Feb '21</b>: Awarded SIGSOFT CAPS Funding Award for ICSE 2021 registration.<br>
+<b>* Apr '21</b>: Presented my research talk on "Characterizing Deep Neural Networks and Merge Conflicts" at Microsoft PROSE.<br>
+<br> <b>* Jan '21</b>: Awarded SIGSOFT CAPS Funding Award for ICSE 2021 registration.<br>
 <br> <b>* Jan '21</b>: Our paper on "Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis" has been accepted at ICSE 2021.<br>
 <br> <b>* Jan '21</b>: I will be serving as Shadow PC member at MSR 2021.<br>
 <br> <b>* Nov '20</b>: ACM  SIGSOFT Distinguished paper award at ESEC/FSE for "On Decomposing Deep Neural Networks into Modules".<br>
