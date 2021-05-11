@@ -10,7 +10,7 @@
 
 ## Welcome to Rangeet Pan's homepage
 <span style="font-size:1.35em;">
-I am a Ph.D. student at the Department of Computer Science at Iowa State University. I am also working as a Research Assistant at the <a href="http://design.cs.iastate.edu/"> Laboratory of Software Design</a>. My supervisor is <a href="http://web.cs.iastate.edu/~hridesh/">Dr. Hridesh Rajan</a>. I have worked as a research intern at Microsoft Research in <a href="https://www.microsoft.com/en-us/research/group/saint-group/"> Software Analysis and Intelligence (SAINTes) team </a> with <a href="https://www.microsoft.com/en-us/research/people/nachin/">Dr. Nachi Nagappan</a>, <a href="http://vuminhle.com/">Dr. Vu Le</a>, <a href="https://www.microsoft.com/en-us/research/people/sumitg/">Dr. Sumit Gulwani</a>, and <a href="https://www.microsoft.com/en-us/research/people/shuvendu/">Dr. Shuvendu Lahiri</a>. My area of expertise is Deep Neural Network, Modularity, and Program Analysis.</span>
+I am a Ph.D. candidate at the Department of Computer Science at Iowa State University. I am also working as a Research Assistant at the <a href="http://design.cs.iastate.edu/"> Laboratory of Software Design</a>. My supervisor is <a href="http://web.cs.iastate.edu/~hridesh/">Dr. Hridesh Rajan</a>. I have worked as a research intern at Microsoft Research in <a href="https://www.microsoft.com/en-us/research/group/saint-group/"> Software Analysis and Intelligence (SAINTes) team </a> with <a href="https://www.microsoft.com/en-us/research/people/nachin/">Dr. Nachi Nagappan</a>, <a href="http://vuminhle.com/">Dr. Vu Le</a>, <a href="https://www.microsoft.com/en-us/research/people/sumitg/">Dr. Sumit Gulwani</a>, and <a href="https://www.microsoft.com/en-us/research/people/shuvendu/">Dr. Shuvendu Lahiri</a>. My area of expertise is Deep Neural Network, Modularity, and Program Analysis.</span>
 
 ## Publications
 <span style="font-size:1.35em;">
@@ -46,7 +46,8 @@ href="https://dl.acm.org/doi/abs/10.1145/3338906.3338955"><span style='color:#95
 href="https://dl.acm.org/doi/10.1145/3338906.3342502"><span style='color:#954F72'>paper</span></a>]</span>
 ## Recent News!
 <span style="font-size:1.35em;">
-<b>* Apr '21</b>: Presented my research talk on "Characterizing Deep Neural Networks and Merge Conflicts" at Microsoft PROSE.<br>
+<b>* May '21</b>: Passed Ph.D. preliminary examination.<br>
+<br> <b>* Apr '21</b>: Presented my research talk on "Characterizing Deep Neural Networks and Merge Conflicts" at Microsoft PROSE.<br>
 <br> <b>* Jan '21</b>: Awarded SIGSOFT CAPS Funding Award for ICSE 2021 registration.<br>
 <br> <b>* Jan '21</b>: Our paper on "Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis" has been accepted at ICSE 2021.<br>
 <br> <b>* Jan '21</b>: I will be serving as Shadow PC member at MSR 2021.<br>
