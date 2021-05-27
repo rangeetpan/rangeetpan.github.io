@@ -46,8 +46,8 @@ href="https://dl.acm.org/doi/abs/10.1145/3338906.3338955"><span style='color:#95
 href="https://dl.acm.org/doi/10.1145/3338906.3342502"><span style='color:#954F72'>paper</span></a>]</span>
 ## Recent News!
 <span style="font-size:1.35em;">
-<b>* May '21</b>: Presented our paper on "Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis" at ICSE 2021.
-<br> <b>* May '21</b>: Award "Research Excellence Award" by Department of Computer Science, Iowa State University for the works done during the Ph.D. program.<br>
+<b>* May '21</b>: Presented our paper on "Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis" at ICSE 2021.<br>
+<br> <b>* May '21</b>: Award <b>*"Research Excellence Award"</b> by Department of Computer Science, Iowa State University for the works done during the Ph.D. program.<br>
 <br> <b>* May '21</b>: Passed Ph.D. preliminary examination.<br>
 <br> <b>* Apr '21</b>: Presented my research talk on "Characterizing Deep Neural Networks and Merge Conflicts" at Microsoft PROSE.<br>
 <br> <b>* Jan '21</b>: Awarded SIGSOFT CAPS Funding Award for ICSE 2021 registration.<br>
