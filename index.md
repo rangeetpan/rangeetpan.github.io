@@ -18,7 +18,8 @@ I am a Ph.D. candidate at the Department of Computer Science at Iowa State Unive
   <b>*</b> <b>Rangeet Pan</b>, Vu Le, Nachiappan Nagappan, Sumit Gulwani, Shuvendhu Lahiri, Mike Kaufman.
 Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis,
 <b>ICSE, 2021</b>: [<a
-href="https://arxiv.org/pdf/2103.02004.pdf"><span style='color:#954F72'>pre-print</span></a>]
+href="https://arxiv.org/pdf/2103.02004.pdf"><span style='color:#954F72'>pre-print</span></a>] [<a
+href="https://www.youtube.com/watch?v=Udsf9k20vbE"><span style='color:#954F72'>presentation video</span></a>]
 <br><br>
 <b><font color="red">2020</font></b><br>
 <b>*</b> <b>Rangeet Pan</b>, Hridesh Rajan.
