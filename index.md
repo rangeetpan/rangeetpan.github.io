@@ -47,7 +47,8 @@ href="https://dl.acm.org/doi/abs/10.1145/3338906.3338955"><span style='color:#95
 href="https://dl.acm.org/doi/10.1145/3338906.3342502"><span style='color:#954F72'>paper</span></a>]</span>
 ## Recent News!
 <span style="font-size:1.35em;">
-<b>* June '21</b>: Serving as a PC member of <a
+<b>* June '21</b>: Invited to present our ICSE'21 paper on merge conflict at UC Davis Computer Science seminar.<br>
+<br> <b>* June '21</b>: Serving as a PC member of <a
 href="https://2021.splashcon.org/track/splash-2021-Artifacts"><span style='color:#954F72'>OOPSLA Artifact</span></a>.<br>
 <br> <b>* May '21</b>: Presented our paper on "Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis" at ICSE 2021.<br>
 <br> <b>* May '21</b>: Awarded <b>"Research Excellence Award"</b> by Department of Computer Science, Iowa State University for the works done during the Ph.D. program.<br>
