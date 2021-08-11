@@ -19,7 +19,8 @@ I am a Ph.D. candidate at the Department of Computer Science at Iowa State Unive
 Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis,
 <b>ICSE, 2021</b>: [<a
 href="https://arxiv.org/pdf/2103.02004.pdf"><span style='color:#954F72'>pre-print</span></a>] [<a
-href="https://www.youtube.com/watch?v=Udsf9k20vbE"><span style='color:#954F72'>presentation video</span></a>]
+href="https://www.youtube.com/watch?v=Udsf9k20vbE"><span style='color:#954F72'>presentation video</span></a>] [<a
+href="https://www.microsoft.com/en-us/research/blog/safe-program-merges-at-scale-a-grand-challenge-for-program-repair-research/?OCID=msr_blog_Programinglanguages_tw"><span style='color:#954F72'>blog</span></a>]
 <br><br>
 <b><font color="red">2020</font></b><br>
 <b>*</b> <b>Rangeet Pan</b>, Hridesh Rajan.
@@ -47,7 +48,9 @@ href="https://dl.acm.org/doi/abs/10.1145/3338906.3338955"><span style='color:#95
 href="https://dl.acm.org/doi/10.1145/3338906.3342502"><span style='color:#954F72'>paper</span></a>]</span>
 ## Recent News!
 <span style="font-size:1.35em;">
-<b>* July '21</b>: Invited to present our ICSE'21 paper on merge conflict at UC Davis Computer Science seminar.<br>
+<b>* Aug '21</b>: Our work on resolving merge conflict has been featured at Microsoft Research [<a
+href="https://www.microsoft.com/en-us/research/blog/safe-program-merges-at-scale-a-grand-challenge-for-program-repair-research/?OCID=msr_blog_Programinglanguages_tw"><span style='color:#954F72'>blog</span></a>].<br>
+<br> <b>* July '21</b>: Invited to present our ICSE'21 paper on merge conflict at UC Davis Computer Science seminar.<br>
 <br> <b>* June '21</b>: Serving as a PC member of <a
 href="https://2021.splashcon.org/track/splash-2021-Artifacts"><span style='color:#954F72'>OOPSLA Artifact</span></a>.<br>
 <br> <b>* May '21</b>: Presented our paper on "Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis" at ICSE 2021.<br>
