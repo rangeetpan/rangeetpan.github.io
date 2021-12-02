@@ -14,6 +14,15 @@ I am a Ph.D. candidate at the Department of Computer Science at Iowa State Unive
 
 ## Publications
 <span style="font-size:1.35em;">
+<b><font color="red">2022</font></b><br>
+ <b>*</b> <b>Rangeet Pan</b> and Hridesh Rajan.
+Decomposing Convolutional Neural Networks into Reusable and Replaceable Modules,
+<b>ICSE, 2022</b>
+ <br><br> 
+  <b>*</b> Giang Nguyen, Md.Johirul Islam, <b>Rangeet Pan</b>, and Hridesh Rajan.
+Manas: Mining Software Repositories to Assist AutoML,
+<b>ICSE, 2022</b>
+  <br></br>
 <b><font color="red">2021</font></b><br>
   <b>*</b> <b>Rangeet Pan</b>, Vu Le, Nachiappan Nagappan, Sumit Gulwani, Shuvendhu Lahiri, Mike Kaufman.
 Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis,
