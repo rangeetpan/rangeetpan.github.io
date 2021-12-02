@@ -22,7 +22,7 @@ Decomposing Convolutional Neural Networks into Reusable and Replaceable Modules,
   <b>*</b> Giang Nguyen, Md.Johirul Islam, <b>Rangeet Pan</b>, and Hridesh Rajan.
 Manas: Mining Software Repositories to Assist AutoML,
 <b>ICSE, 2022</b>
-  <br></br>
+  <br><br>
 <b><font color="red">2021</font></b><br>
   <b>*</b> <b>Rangeet Pan</b>, Vu Le, Nachiappan Nagappan, Sumit Gulwani, Shuvendhu Lahiri, Mike Kaufman.
 Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis,
