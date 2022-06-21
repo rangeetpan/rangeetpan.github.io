@@ -58,6 +58,7 @@ href="https://dl.acm.org/doi/10.1145/3338906.3342502"><span style='color:#954F72
 ## Recent News!
 <span style="font-size:1.35em;">
 <b>* June '22</b>: Joined IBM Research as a research staff member.<br> 
+<br> <b>* June '22</b>: Defended my dissertation on decomposing deep learning models into modules.<br>
 <br> <b>* May '22</b>: Attended and presented our works at ICSE'22.<br>
 <br> <b>* Aug '21</b>: Our work on resolving merge conflict has been featured at Microsoft Research <a
 href="https://www.microsoft.com/en-us/research/blog/safe-program-merges-at-scale-a-grand-challenge-for-program-repair-research/?OCID=msr_blog_Programinglanguages_tw"><span style='color:#954F72'>blog</span></a>.<br>
