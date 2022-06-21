@@ -10,7 +10,7 @@
 
 ## Welcome to Rangeet Pan's homepage
 <span style="font-size:1.35em;">
-I am a Ph.D. candidate at the Department of Computer Science at Iowa State University. I am also working as a Research Assistant at the <a href="http://design.cs.iastate.edu/"> Laboratory of Software Design</a>. My supervisor is <a href="http://web.cs.iastate.edu/~hridesh/">Dr. Hridesh Rajan</a>. I have worked as a research intern at Microsoft Research in <a href="https://www.microsoft.com/en-us/research/group/saint-group/"> Software Analysis and Intelligence (SAINTes) team </a> with <a href="https://www.microsoft.com/en-us/research/people/nachin/">Dr. Nachi Nagappan</a>, <a href="http://vuminhle.com/">Dr. Vu Le</a>, <a href="https://www.microsoft.com/en-us/research/people/sumitg/">Dr. Sumit Gulwani</a>, and <a href="https://www.microsoft.com/en-us/research/people/shuvendu/">Dr. Shuvendu Lahiri</a>. My area of expertise is Deep Neural Network, Modularity, and Program Analysis.</span>
+I am a research staff member at <a href="https://research.ibm.com/">IBM Research</a>. I am working at the T.J. Watson Research Center, Yorktown Heights. I did my Ph.D. at the Department of Computer Science at Iowa State University. I have worked as a Research Assistant at the <a href="http://design.cs.iastate.edu/"> Laboratory of Software Design</a>. My supervisor was <a href="http://web.cs.iastate.edu/~hridesh/">Dr. Hridesh Rajan</a>. Also, I have worked as a research intern at Microsoft Research in <a href="https://www.microsoft.com/en-us/research/group/saint-group/"> Software Analysis and Intelligence (SAINTes) team </a> with <a href="https://www.microsoft.com/en-us/research/people/nachin/">Dr. Nachi Nagappan</a>, <a href="http://vuminhle.com/">Dr. Vu Le</a>, <a href="https://www.microsoft.com/en-us/research/people/sumitg/">Dr. Sumit Gulwani</a>, and <a href="https://www.microsoft.com/en-us/research/people/shuvendu/">Dr. Shuvendu Lahiri</a>. My area of expertise is Deep Neural Network, Modularity, and Program Analysis.</span>
 
 ## Publications
 <span style="font-size:1.35em;">
@@ -57,7 +57,9 @@ href="https://dl.acm.org/doi/abs/10.1145/3338906.3338955"><span style='color:#95
 href="https://dl.acm.org/doi/10.1145/3338906.3342502"><span style='color:#954F72'>paper</span></a>]</span>
 ## Recent News!
 <span style="font-size:1.35em;">
-<b>* Aug '21</b>: Our work on resolving merge conflict has been featured at Microsoft Research <a
+<b>* June '22</b>: Joined IBM Research as a research staff member.<br> 
+<br> <b>* May '22</b>: Attended and presented our works at ICSE'22.<br>
+<br> <b>* Aug '21</b>: Our work on resolving merge conflict has been featured at Microsoft Research <a
 href="https://www.microsoft.com/en-us/research/blog/safe-program-merges-at-scale-a-grand-challenge-for-program-repair-research/?OCID=msr_blog_Programinglanguages_tw"><span style='color:#954F72'>blog</span></a>.<br>
 <br> <b>* July '21</b>: Invited to present our ICSE'21 paper on merge conflict at UC Davis Computer Science seminar.<br>
 <br> <b>* June '21</b>: Serving as a PC member of <a
