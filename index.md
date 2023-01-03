@@ -19,7 +19,7 @@ I am a research staff member at <a href="https://research.ibm.com/">IBM Research
 Towards Supporting Universal Static Analysis using WALA,
 <b>PLDI Tutorial, 2023</b>
   <br><br> 
-  <b>*</b> Sayem Imtiaz, Fraol Batole, Astha Singh <b>Rangeet Pan</b>, Breno Dantas Cruz and Hridesh Rajan.
+  <b>*</b> Sayem Imtiaz, Fraol Batole, Astha Singh, <b>Rangeet Pan</b>, Breno Dantas Cruz and Hridesh Rajan.
 Decomposing a Recurrent Neural Network into Modules for Enabling Reusability and Replacement,
 <b>ICSE, 2023</b>
   <br><br> 
