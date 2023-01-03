@@ -14,8 +14,17 @@ I am a research staff member at <a href="https://research.ibm.com/">IBM Research
 
 ## Publications
 <span style="font-size:1.35em;">
-<b><font color="red">2022</font></b><br>
- <b>*</b> <b>Rangeet Pan</b> and Hridesh Rajan.
+<b><font color="red">2023</font></b><br>
+ <b>*</b> <b>Rangeet Pan</b>, Rahul Krishna, Divya Sankar, Saurabh Sinha, Julian Dolby, and Raju Pavuluri.
+Towards Supporting Universal Static Analysis using WALA,
+<b>PLDI Tutorial, 2023</b>
+  <br><br> 
+  <b>*</b> Sayem Imtiaz, Fraol Batole, Astha Singh <b>Rangeet Pan</b>, Breno Dantas Cruz and Hridesh Rajan.
+Decomposing a Recurrent Neural Network into Modules for Enabling Reusability and Replacement,
+<b>ICSE, 2023</b>
+  <br><br> 
+  <b><font color="red">2022</font></b><br>
+  <b>*</b> <b>Rangeet Pan</b> and Hridesh Rajan.
 Decomposing Convolutional Neural Networks into Reusable and Replaceable Modules,
 <b>ICSE, 2022</b>
  <br><br> 
