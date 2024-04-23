@@ -14,6 +14,12 @@ I am a research staff member at <a href="https://research.ibm.com/">IBM Research
 
 ## Publications
 <span style="font-size:1.35em;">
+<b><font color="red">2024</font></b><br>
+  <b>*</b> <b>Rangeet Pan</b>, Ali Reza Ibrahimzada, Rahul Krishna, Divya Sankar, Lambert Pouguem Wassi, Michele Merler, Boris Sobolev, Raju Pavuluri, Saurabh Sinha, Reyhaneh Jabbarvand.
+Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code,
+<b>ICSE 2024</b> [<a
+href="https://dl.acm.org/doi/10.1145/3597503.3639226"><span style='color:#954F72'>paper</span></a>]
+  <br><br> 
 <b><font color="red">2023</font></b><br>
  <b>*</b> <b>Rangeet Pan</b>, Rahul Krishna, Divya Sankar, Saurabh Sinha, Julian Dolby, and Raju Pavuluri.
 Towards Supporting Universal Static Analysis using WALA,
