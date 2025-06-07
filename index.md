@@ -12,9 +12,9 @@
 <span style="font-size:1.35em;">
 Rangeet Pan is a staff research scientist at the IBM T.J. Watson Research Center, Yorktown Heights. His research interests are in the field of software engineering focusing on program analysis and the use of large language models.
 His works at IBM Research have been focused on the use of static analysis and large language models (LLM) in various code-related tasks, e.g., code translation, test generation, etc. He has also developed a Python library named CLDK to analyze code.
-</span>
 
-For latest updates, please visit to <a href="https://research.ibm.com/people/rangeet-pan">IBM Research</a> page.
+
+For latest updates, please visit to <a href="https://research.ibm.com/people/rangeet-pan">IBM Research</a> page.</span>
 ## Publications
 <span style="font-size:1.35em;">
 <b><font color="red">2025</font></b><br>  
