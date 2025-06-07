@@ -13,34 +13,8 @@
 I am a research staff member at <a href="https://research.ibm.com/">IBM Research</a>. I am working at the T. J. Watson Research Center, Yorktown Heights. I did my Ph.D. at the Department of Computer Science at Iowa State University. I have worked as a Research Assistant at the <a href="http://design.cs.iastate.edu/"> Laboratory of Software Design</a>. My supervisor was <a href="http://web.cs.iastate.edu/~hridesh/">Dr. Hridesh Rajan</a>. Also, I have worked as a research intern at Microsoft Research in <a href="https://www.microsoft.com/en-us/research/group/saint-group/"> Software Analysis and Intelligence (SAINTes) team </a> with <a href="https://www.microsoft.com/en-us/research/people/nachin/">Dr. Nachi Nagappan</a>, <a href="http://vuminhle.com/">Dr. Vu Le</a>, <a href="https://www.microsoft.com/en-us/research/people/sumitg/">Dr. Sumit Gulwani</a>, and <a href="https://www.microsoft.com/en-us/research/people/shuvendu/">Dr. Shuvendu Lahiri</a>. My area of expertise is Deep Neural Network, Modularity, and Program Analysis.</span>
 
 ## Publications
-<span style="font-size:1.35em;">
-<b><font color="red">2025</font></b><br>  
+<span style="font-size:1.35em;"> 
 
-<b>*</b> <b>Rangeet Pan</b>, Myeongsoo Kim, Rahul Krishna, Raju Pavuluri, Saurabh Sinha.
-ASTER: Natural and Multi-language Unit Test Generation with LLMs,
-<b>ICSE 2025 Industry Track</b> [<a
-href="https://research.ibm.com/blog/aster-llm-unit-testing"><span style='color:#954F72'>paper</span></a>] <b><font color="red">(ACM Sigsoft Distinguished Paper Award)</font></b><br>  
-
-<b>*</b> Rahul Krishna, <b>Rangeet Pan</b>, Raju Pavuluri, Maja Vukovic, Saurabh Sinha.
-Codellm-Devkit: A Framework for Contextualizing Code LLMs with Program Analysis Insights Tool Demo,
-<b>ICSE 2025 Demo Track</b> [<a
-href="https://github.com/codellm-devkit/python-sdk"><span style='color:#954F72'>paper</span></a>]
-
-
-<b>*</b> Ali Reza Ibrahimzada, Kaiyao Ke, Mrigank Pawagi, Muhammad Salman Abid, <b>Rangeet Pan</b>, Saurabh Sinha, Reyhaneh Jabbarvand.
-AlphaTrans: A Neuro-Symbolic Compositional Approach for Repository-Level Code Translation and Validation,
-<b>FSE 2025</b> [<a
-href="https://alirezai.cs.illinois.edu/assets/pdf/alphatrans.pdf"><span style='color:#954F72'>paper</span></a>]
-
-<b>*</b> Rahul Krishna, <b>Rangeet Pan</b>, Raju Pavuluri, Srikanth Tamilselvam, Maja Vukovic, Saurabh Sinha.
-Codellm-Devkit: A Framework for Contextualizing Code LLMs with Program Analysis Insights,
-<b>FSE 2025 Industry Track</b> [<a
-href="https://arxiv.org/pdf/2410.13007"><span style='color:#954F72'>paper</span></a>]
-
-<b>*</b> Toufique Ahmed, Jatin Ganhotra, <b>Rangeet Pan</b>, Avraham Shinnar, Saurabh Sinha, Martin Hirzel.
-Otter: Generating Tests from Issues to Validate SWE Patches,
-<b>ICML 2025</b> [<a
-href="https://arxiv.org/pdf/2502.05368"><span style='color:#954F72'>paper</span></a>]  
 <b><font color="red">2024</font></b><br>
   <b>*</b> <b>Rangeet Pan</b>, Ali Reza Ibrahimzada, Rahul Krishna, Divya Sankar, Lambert Pouguem Wassi, Michele Merler, Boris Sobolev, Raju Pavuluri, Saurabh Sinha, Reyhaneh Jabbarvand.
 Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code,
