@@ -103,10 +103,11 @@ href="https://dl.acm.org/doi/abs/10.1145/3338906.3338955"><span style='color:#95
 href="https://dl.acm.org/doi/10.1145/3338906.3342502"><span style='color:#954F72'>paper</span></a>]</span>
 
 ## Interns
+<span style="font-size:1.35em;">
 <br> 1. Tyle Stennett (summer 2025), Georgia Tech
 <br> 2. Shuyang Liu (summer 2025), UIUC
 <br> 3. Myeongsoo Kim (summer 2024), Georgia Tech, currently at Amazon Science
-<br> 4. Ali Reza Ibrahimreza (summer 2023 and 2024), UIUC
+<br> 4. Ali Reza Ibrahimreza (summer 2023 and 2024), UIUC</span>
 ## Recent News!
 <span style="font-size:1.35em;">
 <b>* June '22</b>: Joined IBM Research as a research staff member.<br> 
