@@ -10,11 +10,8 @@
 
 ## Welcome to Rangeet Pan's homepage
 <span style="font-size:1.35em;">
-Rangeet Pan is a staff research scientist at the IBM T.J. Watson Research Center, Yorktown Heights. His research interests are in the field of software engineering focusing on program analysis and the use of large language models.
-His works at IBM Research have been focused on the use of static analysis and large language models (LLM) in various code-related tasks, e.g., code translation, test generation, etc. He has also developed a Python library named CLDK to analyze code.
+I am a research staff member at <a href="https://research.ibm.com/">IBM Research</a>. I am working at the T. J. Watson Research Center, Yorktown Heights. I did my Ph.D. at the Department of Computer Science at Iowa State University. I have worked as a Research Assistant at the <a href="http://design.cs.iastate.edu/"> Laboratory of Software Design</a>. My supervisor was <a href="http://web.cs.iastate.edu/~hridesh/">Dr. Hridesh Rajan</a>. Also, I have worked as a research intern at Microsoft Research in <a href="https://www.microsoft.com/en-us/research/group/saint-group/"> Software Analysis and Intelligence (SAINTes) team </a> with <a href="https://www.microsoft.com/en-us/research/people/nachin/">Dr. Nachi Nagappan</a>, <a href="http://vuminhle.com/">Dr. Vu Le</a>, <a href="https://www.microsoft.com/en-us/research/people/sumitg/">Dr. Sumit Gulwani</a>, and <a href="https://www.microsoft.com/en-us/research/people/shuvendu/">Dr. Shuvendu Lahiri</a>. My area of expertise is Deep Neural Network, Modularity, and Program Analysis.</span>
 
-
-For latest updates, please visit to <a href="https://research.ibm.com/people/rangeet-pan">IBM Research</a> page.</span>
 ## Publications
 <span style="font-size:1.35em;">
 <b><font color="red">2025</font></b><br>  
@@ -43,8 +40,7 @@ href="https://arxiv.org/pdf/2410.13007"><span style='color:#954F72'>paper</span>
 <b>*</b> Toufique Ahmed, Jatin Ganhotra, <b>Rangeet Pan</b>, Avraham Shinnar, Saurabh Sinha, Martin Hirzel.
 Otter: Generating Tests from Issues to Validate SWE Patches,
 <b>ICML 2025</b> [<a
-href="https://arxiv.org/pdf/2502.05368"><span style='color:#954F72'>paper</span></a>]
-  
+href="https://arxiv.org/pdf/2502.05368"><span style='color:#954F72'>paper</span></a>]  
 <b><font color="red">2024</font></b><br>
   <b>*</b> <b>Rangeet Pan</b>, Ali Reza Ibrahimzada, Rahul Krishna, Divya Sankar, Lambert Pouguem Wassi, Michele Merler, Boris Sobolev, Raju Pavuluri, Saurabh Sinha, Reyhaneh Jabbarvand.
 Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code,
@@ -108,6 +104,7 @@ href="https://dl.acm.org/doi/10.1145/3338906.3342502"><span style='color:#954F72
 <br> 2. Shuyang Liu (summer 2025), UIUC
 <br> 3. Myeongsoo Kim (summer 2024), Georgia Tech, currently at Amazon Science
 <br> 4. Ali Reza Ibrahimreza (summer 2023 and 2024), UIUC</span>
+
 ## Recent News!
 <span style="font-size:1.35em;">
 <b>* June '22</b>: Joined IBM Research as a research staff member.<br> 
