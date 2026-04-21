@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Rangeet Pan – Staff Research Scientist at IBM T.J. Watson Research Center. Research in software engineering, program analysis, and large language models.">
+  <title>Rangeet Pan – Research Scientist</title>
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148953677-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-148953677-1');
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;1,8..60,300&display=swap" rel="stylesheet">
+
+  <style>
+    /* ── Tokens ─────────────────────────────────────────────── */
+    :root {
+      --navy:   #1a2744;
+      --blue:   #2c4a8c;
+      --accent: #c8102e;
+      --text:   #1c1c1c;
+      --muted:  #555;
+      --border: #d8dde6;
+      --bg:     #f7f8fa;
+      --white:  #ffffff;
+      --max-w:  960px;
+      --serif:  'Source Serif 4', 'Georgia', serif;
+      --sans:   'Inter', 'Helvetica Neue', Arial, sans-serif;
+    }
+
+    /* ── Reset ──────────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: var(--sans);
+      font-size: 17px;
+      line-height: 1.75;
+      color: var(--text);
+      background: var(--white);
+      -webkit-font-smoothing: antialiased;
+    }
+    a { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Top navigation bar ─────────────────────────────────── */
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--navy);
+      border-bottom: 3px solid var(--accent);
+    }
+    nav ul {
+      display: flex;
+      list-style: none;
+      max-width: var(--max-w);
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+    nav ul li a {
+      display: block;
+      padding: 15px 20px;
+      color: #cdd5e0;
+      font-size: 13.5px;
+      font-weight: 600;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      transition: color .2s;
+    }
+    nav ul li a:hover { color: #fff; text-decoration: none; }
+
+    /* ── Page wrapper ───────────────────────────────────────── */
+    .page { max-width: var(--max-w); margin: 0 auto; padding: 0 24px 80px; }
+
+    /* ── Hero / Profile ─────────────────────────────────────── */
+    .hero {
+      display: grid;
+      grid-template-columns: 230px 1fr;
+      gap: 40px;
+      align-items: start;
+      padding: 56px 0 48px;
+      border-bottom: 1px solid var(--border);
+    }
+    .hero-photo img {
+      width: 230px;
+      height: 230px;
+      object-fit: cover;
+      object-position: top center;
+      border-radius: 4px;
+      display: block;
+      border: 1px solid var(--border);
+    }
+    .hero-info h1 {
+      font-family: var(--serif);
+      font-size: 2.2rem;
+      font-weight: normal;
+      color: var(--navy);
+      margin-bottom: 4px;
+    }
+    .hero-info .title {
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--blue);
+      letter-spacing: .04em;
+      text-transform: uppercase;
+      margin-bottom: 16px;
+    }
+    .hero-info p {
+      color: var(--muted);
+      font-size: 16px;
+      max-width: 640px;
+      margin-bottom: 20px;
+    }
+    .hero-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .hero-links a {
+      display: inline-block;
+      padding: 7px 16px;
+      border: 1px solid var(--blue);
+      border-radius: 3px;
+      font-size: 13.5px;
+      font-weight: 600;
+      color: var(--blue);
+      letter-spacing: .04em;
+      transition: background .2s, color .2s;
+    }
+    .hero-links a:hover {
+      background: var(--blue);
+      color: #fff;
+      text-decoration: none;
+    }
+
+    /* ── Section headings ───────────────────────────────────── */
+    section { padding-top: 52px; }
+    section h2 {
+      font-family: var(--serif);
+      font-size: 1.45rem;
+      font-weight: normal;
+      color: var(--navy);
+      border-bottom: 2px solid var(--navy);
+      padding-bottom: 6px;
+      margin-bottom: 24px;
+      letter-spacing: .01em;
+    }
+
+    /* ── About ──────────────────────────────────────────────── */
+    #about p { color: var(--muted); font-size: 16px; margin-bottom: 14px; }
+
+    /* ── Awards ─────────────────────────────────────────────── */
+    .awards-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .awards-list li {
+      display: flex;
+      align-items: baseline;
+      gap: 12px;
+      font-size: 15.5px;
+      color: var(--text);
+    }
+    .award-year {
+      flex-shrink: 0;
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--accent);
+      width: 36px;
+      text-align: right;
+    }
+
+    /* ── Publications ───────────────────────────────────────── */
+    .pub-year-group { margin-bottom: 32px; }
+    .pub-year-label {
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 14px;
+    }
+    .pub-list { list-style: none; display: flex; flex-direction: column; gap: 0; }
+    .pub-item {
+      padding: 16px 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 15px;
+      line-height: 1.65;
+    }
+    .pub-item:first-child { border-top: 1px solid var(--border); }
+    .pub-title {
+      font-family: var(--serif);
+      font-size: 16.5px;
+      font-weight: 400;
+      color: var(--text);
+      margin-bottom: 3px;
+    }
+    .pub-authors { color: var(--muted); margin-top: 2px; font-size: 14px; }
+    .pub-authors strong { color: var(--text); font-weight: 600; }
+    .pub-venue {
+      margin-top: 4px;
+      font-style: italic;
+      color: var(--blue);
+      font-size: 14px;
+    }
+    .pub-badge {
+      display: inline-block;
+      margin-left: 8px;
+      padding: 1px 7px;
+      background: var(--accent);
+      color: #fff;
+      font-size: 11.5px;
+      font-style: normal;
+      font-weight: 700;
+      border-radius: 2px;
+      vertical-align: middle;
+      letter-spacing: .03em;
+    }
+    .pub-links { margin-top: 6px; }
+    .pub-links a {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--blue);
+      margin-right: 12px;
+    }
+
+    /* ── Service ────────────────────────────────────────────── */
+    .service-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .service-list li {
+      font-size: 15.5px;
+      color: var(--muted);
+      padding-left: 16px;
+      position: relative;
+    }
+    .service-list li::before {
+      content: '–';
+      position: absolute;
+      left: 0;
+      color: var(--blue);
+    }
+
+    /* ── Interns ────────────────────────────────────────────── */
+    .intern-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .intern-list li {
+      font-size: 15.5px;
+      color: var(--muted);
+      padding-left: 16px;
+      position: relative;
+    }
+    .intern-list li::before {
+      content: '–';
+      position: absolute;
+      left: 0;
+      color: var(--blue);
+    }
+    .intern-list strong { color: var(--text); }
+
+    /* ── News ───────────────────────────────────────────────── */
+    .news-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .news-list li {
+      display: flex;
+      gap: 14px;
+      font-size: 15.5px;
+      align-items: baseline;
+    }
+    .news-date {
+      flex-shrink: 0;
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--blue);
+      width: 64px;
+    }
+    .news-text { color: var(--muted); }
+
+    /* ── Footer ─────────────────────────────────────────────── */
+    footer {
+      margin-top: 72px;
+      border-top: 1px solid var(--border);
+      padding: 24px 0;
+      text-align: center;
+      font-size: 13px;
+      color: #999;
+    }
+
+    /* ── Responsive ─────────────────────────────────────────── */
+    @media (max-width: 640px) {
+      .hero { grid-template-columns: 1fr; }
+      .hero-photo img { width: 140px; height: 140px; }
+      nav ul { flex-wrap: wrap; }
+      nav ul li a { padding: 10px 12px; font-size: 12px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── Navigation ──────────────────────────────────────────────── -->
+<nav>
+  <ul>
+    <li><a href="#about">About</a></li>
+    <li><a href="#awards">Awards</a></li>
+    <li><a href="#publications">Publications</a></li>
+    <li><a href="#service">Service</a></li>
+    <li><a href="#interns">Mentoring</a></li>
+    <li><a href="#news">News</a></li>
+    <li><a href="rangeet-CV-2026.pdf" target="_blank">CV</a></li>
+  </ul>
+</nav>
+
+<div class="page">
+
+  <!-- ── Hero ──────────────────────────────────────────────────── -->
+  <div class="hero">
+    <div class="hero-photo">
+      <img src="IMG_6488.png" alt="Rangeet Pan">
+    </div>
+    <div class="hero-info">
+      <h1>Rangeet Pan</h1>
+      <div class="title">Staff Research Scientist &nbsp;·&nbsp; IBM T.J. Watson Research Center</div>
+      <p>
+        My research is in software engineering, with a focus on program analysis and the application
+        of large language models to code-related tasks — including code translation, test generation,
+        and application modernization. I received my Ph.D. from Iowa State University.
+      </p>
+      <p>
+        For the latest updates, see my
+        <a href="https://research.ibm.com/people/rangeet-pan">IBM Research profile</a>.
+      </p>
+      <div class="hero-links">
+        <a href="https://scholar.google.com/citations?hl=en&user=w2vz7HoAAAAJ" target="_blank">Google Scholar</a>
+        <a href="https://github.com/rangeetpan" target="_blank">GitHub</a>
+        <a href="https://www.linkedin.com/in/rangeetpan/" target="_blank">LinkedIn</a>
+        <a href="https://twitter.com/rangeetpan" target="_blank">Twitter / X</a>
+        <a href="rangeet-CV-2026.pdf" target="_blank">Curriculum Vitae</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── About ─────────────────────────────────────────────────── -->
+  <section id="about">
+    <h2>About</h2>
+    <p>
+      Rangeet Pan is a Staff Research Scientist at the IBM T.J. Watson Research Center, Yorktown Heights, NY.
+      His research interests span software engineering, program analysis, and large language models (LLMs).
+    </p>
+    <p>
+      At IBM Research, his work centers on incorporating program analysis with LLMs
+      for code-to-code tasks: code translation, automated test generation, and application modernization.
+      His test generation work is part of IBM's <em>watsonx Coding Assistant</em> product. He also developed
+      <a href="https://github.com/codellm-devkit/python-sdk">CLDK</a>, an open-source Python library for
+      contextualizing code LLMs with program analysis insights.
+    </p>
+    <p>
+      He received his Ph.D. in Computer Science from Iowa State University (2022). He holds an M.S.
+      in Computer and Systems Engineering from the University of Houston (2018).
+    </p>
+  </section>
+
+  <!-- ── Awards ────────────────────────────────────────────────── -->
+  <section id="awards">
+    <h2>Awards &amp; Recognition</h2>
+    <ul class="awards-list">
+      <li><span class="award-year">2025</span> ACM SIGSOFT Distinguished Paper Award — ICSE 2025, Ottawa, Canada</li>
+      <li><span class="award-year">2024</span> Pat Goldberg Award (Honorable Mention) — IBM Research</li>
+      <li><span class="award-year">2021</span> Research Excellence Award — Iowa State University</li>
+      <li><span class="award-year">2020</span> ACM SIGSOFT Distinguished Paper Award — ESEC/FSE 2020</li>
+      <li><span class="award-year">2020</span> 2nd Place, ACM Student Research Competition — ICSE 2020</li>
+      <li><span class="award-year">2020</span> Robert Stewart Early Research Recognition Award — Iowa State University</li>
+      <li><span class="award-year">2019</span> ACM Travel Award — ESEC/FSE 2019, Tallinn, Estonia</li>
+      <li><span class="award-year">2017</span> Merit Scholarship, Phi Beta Delta — University of Houston</li>
+    </ul>
+  </section>
+
+  <!-- ── Publications ──────────────────────────────────────────── -->
+  <section id="publications">
+    <h2>Publications</h2>
+
+    <!-- 2026 -->
+    <div class="pub-year-group">
+      <div class="pub-year-label">2026</div>
+      <ul class="pub-list">
+
+        <li class="pub-item">
+          <div class="pub-title">SAINT: Service-level Integration Test Generation with Program Analysis and LLM-based Agents</div>
+          <div class="pub-authors"><strong>Rangeet Pan</strong>, Raju Pavuluri, Ruikai Huang, Rahul Krishna, Tyler Stennett, Alessandro Orso, and Saurabh Sinha</div>
+          <div class="pub-venue">ICSE 2026 — IEEE/ACM 48th International Conference on Software Engineering</div>
+        </li>
+
+        <li class="pub-item">
+          <div class="pub-title">Hamster: A Large-Scale Study and Characterization of Developer-Written Tests</div>
+          <div class="pub-authors"><strong>Rangeet Pan</strong>, Tyler Stennett, Raju Pavuluri, Nate Levin, Alessandro Orso, and Saurabh Sinha</div>
+          <div class="pub-venue">ICSE-SEIP 2026 — Software Engineering in Practice</div>
+        </li>
+
+        <li class="pub-item">
+          <div class="pub-title">Sakura: An Approach for Generating Complex Tests from Natural Language Test Descriptions</div>
+          <div class="pub-authors">Tyler Stennett, <strong>Rangeet Pan</strong>, Bridget McGinn, Alessandro Orso, and Saurabh Sinha</div>
+          <div class="pub-venue">ISSTA, 2026</div>
+        </li>
+
+      </ul>
+    </div>
+
+    <!-- 2025 -->
+    <div class="pub-year-group">
+      <div class="pub-year-label">2025</div>
+      <ul class="pub-list">
+
+        <li class="pub-item">
+          <div class="pub-title">ASTER: Natural and Multi-language Unit Test Generation with LLMs</div>
+          <div class="pub-authors"><strong>Rangeet Pan</strong>, Myeongsoo Kim, Rahul Krishna, Raju Pavuluri, and Saurabh Sinha</div>
+          <div class="pub-venue">ICSE-SEIP 2025<span class="pub-badge">ACM SIGSOFT Distinguished Paper</span></div>
+          <div class="pub-links">
+            <a href="https://research.ibm.com/blog/aster-llm-unit-testing" target="_blank">Paper / Blog</a>
+          </div>
+        </li>
+
+        <li class="pub-item">
+          <div class="pub-title">AlphaTrans: A Neuro-Symbolic Compositional Approach for Repository-Level Code Translation and Validation</div>
+          <div class="pub-authors">Ali Reza Ibrahimzada, Kaiyao Ke, Mrigank Pawagi, Muhammad Salman Abid, <strong>Rangeet Pan</strong>, Saurabh Sinha, and Reyhaneh Jabbarvand</div>
+          <div class="pub-venue">FSE 2025 — Proceedings of the ACM on Software Engineering</div>
+          <div class="pub-links">
+            <a href="https://alirezai.cs.illinois.edu/assets/pdf/alphatrans.pdf" target="_blank">PDF</a>
+          </div>
+        </li>
+
+        <li class="pub-item">
+          <div class="pub-title">Codellm-Devkit: A Framework for Contextualizing Code LLMs with Program Analysis Insights</div>
+          <div class="pub-authors">Rahul Krishna, <strong>Rangeet Pan</strong>, Saurabh Sinha, Srikanth Tamilselvam, Raju Pavuluri, and Maja Vukovic</div>
+          <div class="pub-venue">ASE 2025 — ACM International Conference on the Foundations of Software Engineering</div>
+          <div class="pub-links">
+            <a href="https://arxiv.org/pdf/2410.13007" target="_blank">PDF</a>
+          </div>
+        </li>
+
+        <li class="pub-item">
+          <div class="pub-title">Codellm-Devkit: A Framework for Contextualizing Code LLMs with Program Analysis Insights — Tool Demo</div>
+          <div class="pub-authors">Rahul Krishna, <strong>Rangeet Pan</strong>, Raju Pavuluri, Maja Vukovic, and Saurabh Sinha</div>
+          <div class="pub-venue">ICSE 2025 — Demo Track</div>
+          <div class="pub-links">
+            <a href="https://github.com/codellm-devkit/python-sdk" target="_blank">GitHub</a>
+          </div>
+        </li>
+
+        <li class="pub-item">
+          <div class="pub-title">Otter: Generating Tests from Issues to Validate SWE Patches</div>
+          <div class="pub-authors">Toufique Ahmed, Jatin Ganhotra, <strong>Rangeet Pan</strong>, Avraham Shinnar, Saurabh Sinha, and Martin Hirzel</div>
+          <div class="pub-venue">ICLR 2025 — Forty-second International Conference on Machine Learning</div>
+          <div class="pub-links">
+            <a href="https://arxiv.org/pdf/2502.05368" target="_blank">PDF</a>
+          </div>
+        </li>
+
+      </ul>
+    </div>
+
+    <!-- 2024 -->
+    <div class="pub-year-group">
+      <div class="pub-year-label">2024</div>
+      <ul class="pub-list">
+
+        <li class="pub-item">
+          <div class="pub-title">Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code</div>
+          <div class="pub-authors"><strong>Rangeet Pan</strong>, Ali Reza Ibrahimzada, Rahul Krishna, Divya Sankar, Lambert Pouguem Wassi, Michele Merler, Boris Sobolev, Raju Pavuluri, Saurabh Sinha, and Reyhaneh Jabbarvand</div>
+          <div class="pub-venue">ICSE 2024 &nbsp;·&nbsp; <em>~400 citations in 2 years</em></div>
+          <div class="pub-links">
+            <a href="https://dl.acm.org/doi/10.1145/3597503.3639226" target="_blank">ACM DL</a>
+          </div>
+        </li>
+
+      </ul>
+    </div>
+
+    <!-- 2023 -->
+    <div class="pub-year-group">
+      <div class="pub-year-label">2023</div>
+      <ul class="pub-list">
+
+        <li class="pub-item">
+          <div class="pub-title">Towards Supporting Universal Static Analysis using WALA</div>
+          <div class="pub-authors"><strong>Rangeet Pan</strong>, Rahul Krishna, Divya Sankar, Saurabh Sinha, Julian Dolby, and Raju Pavuluri</div>
+          <div class="pub-venue">PLDI Tutorial 2023</div>
+        </li>
+
+        <li class="pub-item">
+          <div class="pub-title">Decomposing a Recurrent Neural Network into Modules for Enabling Reusability and Replacement</div>
+          <div class="pub-authors">Sayem Imtiaz, Fraol Batole, Astha Singh, <strong>Rangeet Pan</strong>, Breno Dantas Cruz, and Hridesh Rajan</div>
+          <div class="pub-venue">ICSE 2023</div>
+        </li>
+
+      </ul>
+    </div>
+
+    <!-- 2022 -->
+    <div class="pub-year-group">
+      <div class="pub-year-label">2022</div>
+      <ul class="pub-list">
+
+        <li class="pub-item">
+          <div class="pub-title">Decomposing Convolutional Neural Networks into Reusable and Replaceable Modules</div>
+          <div class="pub-authors"><strong>Rangeet Pan</strong> and Hridesh Rajan</div>
+          <div class="pub-venue">ICSE 2022</div>
+        </li>
+
+        <li class="pub-item">
+          <div class="pub-title">Manas: Mining Software Repositories to Assist AutoML</div>
+          <div class="pub-authors">Giang Nguyen, Md Johirul Islam, <strong>Rangeet Pan</strong>, and Hridesh Rajan</div>
+          <div class="pub-venue">ICSE 2022</div>
+        </li>
+
+      </ul>
+    </div>
+
+    <!-- 2021 -->
+    <div class="pub-year-group">
+      <div class="pub-year-label">2021</div>
+      <ul class="pub-list">
+
+        <li class="pub-item">
+          <div class="pub-title">Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis</div>
+          <div class="pub-authors"><strong>Rangeet Pan</strong>, Vu Le, Nachiappan Nagappan, Sumit Gulwani, Shuvendu Lahiri, and Mike Kaufman</div>
+          <div class="pub-venue">ICSE 2021</div>
+          <div class="pub-links">
+            <a href="https://arxiv.org/pdf/2103.02004.pdf" target="_blank">Pre-print</a>
+            <a href="https://www.youtube.com/watch?v=Udsf9k20vbE" target="_blank">Video</a>
+            <a href="https://www.microsoft.com/en-us/research/blog/safe-program-merges-at-scale-a-grand-challenge-for-program-repair-research/" target="_blank">MSR Blog</a>
+          </div>
+        </li>
+
+      </ul>
+    </div>
+
+    <!-- 2020 -->
+    <div class="pub-year-group">
+      <div class="pub-year-label">2020</div>
+      <ul class="pub-list">
+
+        <li class="pub-item">
+          <div class="pub-title">On Decomposing a Deep Neural Network into Modules</div>
+          <div class="pub-authors"><strong>Rangeet Pan</strong> and Hridesh Rajan</div>
+          <div class="pub-venue">ESEC/FSE 2020<span class="pub-badge">ACM SIGSOFT Distinguished Paper</span></div>
+          <div class="pub-links">
+            <a href="https://dl.acm.org/doi/10.1145/3368089.3409668" target="_blank">ACM DL</a>
+          </div>
+        </li>
+
+        <li class="pub-item">
+          <div class="pub-title">Does Fixing Bug Increase Robustness in Deep Learning?</div>
+          <div class="pub-authors"><strong>Rangeet Pan</strong></div>
+          <div class="pub-venue">ICSE SRC 2020 &nbsp;·&nbsp; <em>2nd Place, Student Research Competition</em></div>
+          <div class="pub-links">
+            <a href="https://dl.acm.org/doi/10.1145/3377812.3382175" target="_blank">ACM DL</a>
+          </div>
+        </li>
+
+        <li class="pub-item">
+          <div class="pub-title">Repairing Deep Neural Networks: Fix Patterns and Challenges</div>
+          <div class="pub-authors">Md Johirul Islam, <strong>Rangeet Pan</strong>, and Hridesh Rajan</div>
+          <div class="pub-venue">ICSE 2020</div>
+          <div class="pub-links">
+            <a href="https://dl.acm.org/doi/10.1145/3377811.3380378" target="_blank">ACM DL</a>
+          </div>
+        </li>
+
+      </ul>
+    </div>
+
+    <!-- 2019 -->
+    <div class="pub-year-group">
+      <div class="pub-year-label">2019</div>
+      <ul class="pub-list">
+
+        <li class="pub-item">
+          <div class="pub-title">A Comprehensive Study on Deep Learning Bug Characteristics</div>
+          <div class="pub-authors">Md Johirul Islam, Giang Nguyen, <strong>Rangeet Pan</strong>, and Hridesh Rajan</div>
+          <div class="pub-venue">ESEC/FSE 2019</div>
+          <div class="pub-links">
+            <a href="https://dl.acm.org/doi/abs/10.1145/3338906.3338955" target="_blank">ACM DL</a>
+          </div>
+        </li>
+
+        <li class="pub-item">
+          <div class="pub-title">Static Deep Neural Network Analysis for Robustness</div>
+          <div class="pub-authors"><strong>Rangeet Pan</strong></div>
+          <div class="pub-venue">ESEC/FSE SRC 2019</div>
+          <div class="pub-links">
+            <a href="https://dl.acm.org/doi/10.1145/3338906.3342502" target="_blank">ACM DL</a>
+          </div>
+        </li>
+
+      </ul>
+    </div>
+
+  </section>
+
+  <!-- ── Service ────────────────────────────────────────────────── -->
+  <section id="service">
+    <h2>Professional Service</h2>
+    <ul class="service-list">
+      <li>Program Committee Member, FSE Research Track, 2027</li>
+      <li>Program Committee Member, ICSE Research Track, 2026</li>
+      <li>Co-Chair, ReCode Workshop, ICSE 2026</li>
+      <li>Program Committee Member, ICSE NIER Track, 2026</li>
+      <li>Program Committee Member, ICSE Research Track, 2025</li>
+      <li>Program Committee Member, ICSE SEIP Track, 2024</li>
+      <li>Program Committee Member, ASE Research Track, 2024</li>
+      <li>Program Committee Member, ESEC/FSE Research Track, 2023</li>
+      <li>Program Committee Member, OOPSLA Artifact Track, 2021</li>
+      <li>Shadow Program Committee Member, MSR 2021</li>
+      <li>Web Chair &amp; Organizing Committee, SPLASH 2020 &amp; 2021</li>
+      <li>External Reviewer, IEEE Transactions on Software Engineering (TSE)</li>
+      <li>External Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)</li>
+      <li>External Reviewer, Springer Empirical Software Engineering (EMSE)</li>
+    </ul>
+  </section>
+
+  <!-- ── Mentoring ──────────────────────────────────────────────── -->
+  <section id="interns">
+    <h2>Mentoring</h2>
+    <ul class="intern-list">
+      <li><strong>Tyler Stennett</strong> — Summer 2025 and 2026, Georgia Tech</li>
+      <li><strong>Shuyang Liu</strong> — Summer 2025, UIUC</li>
+      <li><strong>Myeongsoo Kim</strong> — Summer 2024, Georgia Tech &nbsp;·&nbsp; currently at Amazon Science</li>
+      <li><strong>Ali Reza Ibrahimzada</strong> — Summer 2023 and 2024, UIUC</li>
+    </ul>
+  </section>
+
+  <!-- ── News ──────────────────────────────────────────────────── -->
+  <section id="news">
+    <h2>Selected News</h2>
+    <ul class="news-list">
+      <li>
+        <span class="news-date">Apr 2025</span>
+        <span class="news-text">IBM Research Blog: <a href="https://research.ibm.com/blog/aster-llm-unit-testing" target="_blank">ASTER: Natural and multi-language unit test generation with LLMs</a></span>
+      </li>
+      <li>
+        <span class="news-date">Sep 2024</span>
+        <span class="news-text">IBM Research Blog: <a href="https://research.ibm.com/blog/cldk-codellm-devkit" target="_blank">Simplify your Code LLM solutions using CodeLLM DevKit</a></span>
+      </li>
+      <li>
+        <span class="news-date">Jun 2022</span>
+        <span class="news-text">Joined IBM Research as a Research Staff Member.</span>
+      </li>
+      <li>
+        <span class="news-date">Jun 2022</span>
+        <span class="news-text">Defended Ph.D. dissertation on decomposing deep learning models into modules.</span>
+      </li>
+      <li>
+        <span class="news-date">Aug 2021</span>
+        <span class="news-text">Microsoft Research Blog: <a href="https://www.microsoft.com/en-us/research/blog/safe-program-merges-at-scale-a-grand-challenge-for-program-repair-research/" target="_blank">Safe program merges at scale</a></span>
+      </li>
+      <li>
+        <span class="news-date">May 2021</span>
+        <span class="news-text">Awarded Research Excellence Award by the Department of Computer Science, Iowa State University.</span>
+      </li>
+      <li>
+        <span class="news-date">Nov 2020</span>
+        <span class="news-text">ACM SIGSOFT Distinguished Paper Award at ESEC/FSE 2020 for "On Decomposing Deep Neural Networks into Modules."</span>
+      </li>
+      <li>
+        <span class="news-date">May 2020</span>
+        <span class="news-text">2nd Place at the ACM Student Research Competition, ICSE 2020.</span>
+      </li>
+      <li>
+        <span class="news-date">May 2020</span>
+        <span class="news-text">Joined Microsoft Research as a Research Intern.</span>
+      </li>
+    </ul>
+  </section>
+
+</div><!-- /.page -->
+
+<footer>
+  <p>Rangeet Pan &nbsp;·&nbsp; IBM T.J. Watson Research Center, Yorktown Heights, NY</p>
+</footer>
+
+</body>
+</html>
